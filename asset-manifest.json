@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/robo-army/static/css/main.34de6062.chunk.css",
+    "main.js": "/robo-army/static/js/main.36d634d3.chunk.js",
+    "main.js.map": "/robo-army/static/js/main.36d634d3.chunk.js.map",
+    "runtime~main.js": "/robo-army/static/js/runtime~main.2cbaed07.js",
+    "runtime~main.js.map": "/robo-army/static/js/runtime~main.2cbaed07.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/robo-army/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.93ed5dd5.chunk.js": "/robo-army/static/js/2.93ed5dd5.chunk.js",
+    "static/js/2.93ed5dd5.chunk.js.map": "/robo-army/static/js/2.93ed5dd5.chunk.js.map",
+    "index.html": "/robo-army/index.html",
+    "precache-manifest.e019f1613eeea0dd8f64ddecda7c01e9.js": "/robo-army/precache-manifest.e019f1613eeea0dd8f64ddecda7c01e9.js",
+    "service-worker.js": "/robo-army/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/robo-army/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/robo-army/static/css/main.34de6062.chunk.css.map"
+  }
+}
