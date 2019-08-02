@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'SF Distant Galaxy AltOutline Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF Distant Galaxy AltOutline Regular'), url('SF Distant Galaxy AltOutline.woff') format('woff');
+}
+
+h1 {
+    font-family: 'SF Distant Galaxy AltOutline Regular';
+    color: #ff2600;
+}
