@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/robo-army/static/css/main.b09c8253.chunk.css",
-    "main.js": "/robo-army/static/js/main.07193fd8.chunk.js",
-    "main.js.map": "/robo-army/static/js/main.07193fd8.chunk.js.map",
+    "main.js": "/robo-army/static/js/main.d48a6c57.chunk.js",
+    "main.js.map": "/robo-army/static/js/main.d48a6c57.chunk.js.map",
     "runtime~main.js": "/robo-army/static/js/runtime~main.2cbaed07.js",
     "runtime~main.js.map": "/robo-army/static/js/runtime~main.2cbaed07.js.map",
     "static/css/2.31dafeb2.chunk.css": "/robo-army/static/css/2.31dafeb2.chunk.css",
     "static/js/2.4d43d901.chunk.js": "/robo-army/static/js/2.4d43d901.chunk.js",
     "static/js/2.4d43d901.chunk.js.map": "/robo-army/static/js/2.4d43d901.chunk.js.map",
     "index.html": "/robo-army/index.html",
-    "precache-manifest.a1b62a841b3b40ad3f6ab425f98ac1d2.js": "/robo-army/precache-manifest.a1b62a841b3b40ad3f6ab425f98ac1d2.js",
+    "precache-manifest.d2c55d0dccc361648dc573ff387f16f5.js": "/robo-army/precache-manifest.d2c55d0dccc361648dc573ff387f16f5.js",
     "service-worker.js": "/robo-army/service-worker.js",
     "static/css/2.31dafeb2.chunk.css.map": "/robo-army/static/css/2.31dafeb2.chunk.css.map",
     "static/css/main.b09c8253.chunk.css.map": "/robo-army/static/css/main.b09c8253.chunk.css.map",
