@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/robo-army/static/css/main.c9e895de.chunk.css",
-    "main.js": "/robo-army/static/js/main.d67e916a.chunk.js",
-    "main.js.map": "/robo-army/static/js/main.d67e916a.chunk.js.map",
+    "main.css": "/robo-army/static/css/main.b09c8253.chunk.css",
+    "main.js": "/robo-army/static/js/main.07193fd8.chunk.js",
+    "main.js.map": "/robo-army/static/js/main.07193fd8.chunk.js.map",
     "runtime~main.js": "/robo-army/static/js/runtime~main.2cbaed07.js",
     "runtime~main.js.map": "/robo-army/static/js/runtime~main.2cbaed07.js.map",
     "static/css/2.31dafeb2.chunk.css": "/robo-army/static/css/2.31dafeb2.chunk.css",
     "static/js/2.4d43d901.chunk.js": "/robo-army/static/js/2.4d43d901.chunk.js",
     "static/js/2.4d43d901.chunk.js.map": "/robo-army/static/js/2.4d43d901.chunk.js.map",
     "index.html": "/robo-army/index.html",
-    "precache-manifest.15c605859f72fdd216680712fbd5cf53.js": "/robo-army/precache-manifest.15c605859f72fdd216680712fbd5cf53.js",
+    "precache-manifest.a1b62a841b3b40ad3f6ab425f98ac1d2.js": "/robo-army/precache-manifest.a1b62a841b3b40ad3f6ab425f98ac1d2.js",
     "service-worker.js": "/robo-army/service-worker.js",
     "static/css/2.31dafeb2.chunk.css.map": "/robo-army/static/css/2.31dafeb2.chunk.css.map",
-    "static/css/main.c9e895de.chunk.css.map": "/robo-army/static/css/main.c9e895de.chunk.css.map",
+    "static/css/main.b09c8253.chunk.css.map": "/robo-army/static/css/main.b09c8253.chunk.css.map",
     "static/media/App.css": "/robo-army/static/media/SF Distant Galaxy AltOutline.f066e4ab.woff"
   }
 }
